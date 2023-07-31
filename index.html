@@ -14,7 +14,7 @@
             <img src="./article-preview-component-master/images/drawers.jpg" alt="">
 
             <div class="welcome-text">
-                <h1 class="heading-text">Welcome to JAGTECH One on One Training: <cite><small>Empowering Your Tech Journey!</small></cite></h1>
+                <h2 class="heading-text">Welcome to JAGTECH One on One Training: <cite><span>Empowering Your Tech Journey!</span></cite></h2>
 
                 <div class="who-we-are">
                     <h3 class="jagtech-features">Who We Are:</h3>
@@ -89,8 +89,7 @@
 
                     <div class="training">
                         <a href="landingPage.html">
-                            <h3>Training</h3>
-                            <!-- <img class="get-started" src="./images/arrow.png" alt="get started"> -->
+                            <h3 class="train">Training &DoubleLongRightArrow;</h3>
                         </a>
                     </div>
                 </div>
@@ -141,7 +140,7 @@
 
     .welcome-text {
         padding: 1em 2em;
-        text-align: justify;
+        /* text-align: justify; */
         display: flex;
         flex-direction: column;
         gap: 2em;
@@ -156,6 +155,11 @@
         /* color: hsl(210, 46%, 95%) */
     }
 
+    span {
+        font-size: 0.6em;
+        /* color: red; */
+    }
+
     .jagtech-features {
         padding: 0.8em 0;
         color: #033d3a;
@@ -164,6 +168,7 @@
     .colours {
         color: #033d3a;
         font-weight: bold;
+        padding: 0.7em 0 0.4em;
     }
 
     .offer {
@@ -175,8 +180,8 @@
     }
 
     .why {
-        font-weight: bold;
-        padding: 0.7em 0 0.4em;
+        /* font-weight: bold; */
+        /*  */
     }
 
     .tutor {
@@ -223,18 +228,71 @@
 
     .tutor-date h2 {
         font-size: 1em;
+        /* animation: brainforce 2s infinite alternate; */
+
+        /* animation-name: example; */
+        /* animation-duration: 4s; */
+        /* animation-iteration-count: 2; */
+        /* animation-direction: alternate-reverse; */
     }
 
+    /* .logo {
+        width: 4em;
+    } */
+
+   
+
     .training {
-        background-color: hsl(210, 46%, 95%);
+        /* color: ; */
+
+        background-color: #033d3a;
         padding: 0.5em;
         border-radius: 8px;
     }
 
+    @keyframes brainforce {
+        0% {
+            transform: scale(0.9);
+        }
+        100% {
+            transform: scale(1);
+            /* color: #ffff0067; */
+        }
+    }
+
+    .training h3 {
+        animation: brainforce 2s infinite alternate;
+    }
+
     .training a {
         text-decoration: none;
-        color: hsl(214, 17%, 51%);
+        color: white;
+
+
+        /* animation-name: example; */
+        /* animation-duration: 4s; */
+        /* animation-iteration-count: 2; */
+        /* animation-direction: alternate-reverse; */
+        /* color: red; */
     }
+
+    .training:hover  {
+        transition: 4s;
+        /* background-color: lightgray; */
+    }
+
+    .training a:hover {
+        transition: 4s;
+        /* color: #033d3a; */
+    }
+
+    /* .arrow {
+        width: 2em;
+    } */
+
+
+
+
 
     /* .jagoal {
         width: 8em;

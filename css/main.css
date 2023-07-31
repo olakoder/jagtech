@@ -21,11 +21,11 @@ body {
 /* TRAINING */
 
 .container {
-    background-color: var(--light-gray);
+    /* background-color: var(--light-gray); */
     display: flex;
     flex-direction: column;
     gap: 1.2em;
-    padding: 2em 0;
+    /* padding: 2em 0; */
 }
 
 .top-training {
@@ -148,9 +148,7 @@ body {
     font-size: 1.3em;
 }
 
-.course {
-    /* padding: 0 1.5em ; */
-}
+
 
 /* TRAINING */
 /* //////////////////////////////// */
@@ -158,6 +156,7 @@ body {
 .container-2 {
     width: 375px;
     margin: auto;
+    color: hsl(214, 17%, 51%);;
 }
 
 .full-section {
@@ -171,6 +170,7 @@ body {
     align-items: center;
     padding: 0.5em 1em;
     background-color: rgba(211, 211, 211, 0.192);
+    color: black;
 }
 
 .hero-section {
@@ -194,6 +194,31 @@ body {
     border: 4px solid var(--light-color);
     border-radius: 10px;
     font-weight: bold;
+}
+
+.non {
+    width: 100%;
+    background-color: rgba(211, 211, 211, 0.247);
+    text-align: left;
+    padding: 1em 1em;
+}
+
+.back {
+    text-decoration: none;
+    color: hsl(214, 17%, 51%);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 0.3em;
+}
+
+.arrow {
+    font-size: 1.5em;
+    width: 1em;
+}
+
+.back {
+    
 }
 
 .beginners {
@@ -334,6 +359,11 @@ body {
     margin: auto;
     padding-top: 0.4em;
     line-height: 0.9;
+    /* color: black; */
+}
+
+.criteria h2, .require h2, .benefit h2, #booking h2, .about h2 {
+    color: black;
 }
 
 .require {
@@ -342,7 +372,25 @@ body {
 }
 
 .require p {
-    padding-top: 1em;
+    padding: 0.5em 2em 0;
+    text-align: left;
+    line-height: 1.6;
+
+}
+
+.require-heading {
+    font-weight: bold;
+}
+
+.benefit {
+    background-color: white;
+    padding: 2em 0;
+}
+
+.benefit p {
+    padding: 0.5em 2em 0;
+    text-align: left;
+    line-height: 1.6;
 }
 
 .slot {
@@ -450,3 +498,15 @@ input {
     font-size: 1.1em;
 }
 
+/* @media screen and (min-width: 500px) {
+} */
+
+@media (min-width: 480px) { 
+    .container {
+        width: 480px;
+        margin: auto;
+    }
+
+    .full-section {
+    }
+}
