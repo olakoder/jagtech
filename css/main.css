@@ -188,6 +188,11 @@ body {
     font-weight: bold;
 }
 
+.hero-section a:hover {
+    background-color: var(--light-color);
+    transition: 0.7s;
+}
+
 .non {
     width: 100%;
     background-color: rgba(211, 211, 211, 0.247);
@@ -388,6 +393,8 @@ body {
     padding: 2em 0 4em;
 }
 
+
+
 input {
     display: block;
     width: 80%;
@@ -405,13 +412,17 @@ input {
 .slot a {
     text-decoration: none;
     background-color: #033d3a;
-    /* padding: 0.7em 5em; */
+    padding: 0.8em 6em;
     color: white;
-    /* width: 100%; */
     font-size: 1.2em;
     font-weight: bold;
     border-radius: 10px;
     cursor: pointer;
+}
+
+.slot a:hover {
+    background-color: var(--light-color);
+    transition: 0.7s;
 }
 
 .about {
@@ -482,21 +493,15 @@ input {
     font-size: 1.1em;
 }
 
-<<<<<<< HEAD
-=======
-/* @media screen and (min-width: 500px) {
-} */
 
->>>>>>> 4823cb4f7f6d1b5899f135d4771dce63af3d1b36
 @media (min-width: 480px) { 
     .container {
         width: 480px;
         margin: auto;
     }
-<<<<<<< HEAD
-=======
 
-    .full-section {
+    .slot a {
+    padding: 0.8em 8em;
     }
->>>>>>> 4823cb4f7f6d1b5899f135d4771dce63af3d1b36
+
 }
