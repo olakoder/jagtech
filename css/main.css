@@ -209,6 +209,13 @@ body {
     width: 1em;
 }
 
+<<<<<<< HEAD
+=======
+.back {
+    
+}
+
+>>>>>>> 4823cb4f7f6d1b5899f135d4771dce63af3d1b36
 .beginners {
     padding: 2em 0;
     background-color: #d1e4e3;
@@ -480,9 +487,21 @@ input {
     font-size: 1.1em;
 }
 
+<<<<<<< HEAD
+=======
+/* @media screen and (min-width: 500px) {
+} */
+
+>>>>>>> 4823cb4f7f6d1b5899f135d4771dce63af3d1b36
 @media (min-width: 480px) { 
     .container {
         width: 480px;
         margin: auto;
     }
+<<<<<<< HEAD
+=======
+
+    .full-section {
+    }
+>>>>>>> 4823cb4f7f6d1b5899f135d4771dce63af3d1b36
 }

@@ -161,6 +161,7 @@ Remember that the actual benefits would depend on the quality and reputation of 
 
 
 
+<<<<<<< HEAD
 <input type="text" placeholder="Name" name="name" required>
                     <input type="text" placeholder="Phone Number" name="phone number" required>
                     <input class="inp" type="text" placeholder="Course Applying for" required>
@@ -168,6 +169,8 @@ Remember that the actual benefits would depend on the quality and reputation of 
 
 
 
+=======
+>>>>>>> 4823cb4f7f6d1b5899f135d4771dce63af3d1b36
 
 //////////////
 As of my last update in September 2021, "Jagtech" remains an unspecified term or organization, so I don't have specific information about their web training program. However, I can outline the general benefits that one might expect from a quality web training program. If "Jagtech" is a reputable organization with a strong web training program, these benefits might apply:
