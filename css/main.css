@@ -375,6 +375,7 @@ body {
 
 .require-heading {
     font-weight: bold;
+    display: block;
 }
 
 .benefit {
