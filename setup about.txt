@@ -33,3 +33,163 @@ Start Your Tech Journey Today!
 Whether you are looking to kickstart your tech career, upskill to stay relevant in the industry, or pursue your passion for technology, JagTech Training is here to guide you every step of the way. Join our growing community of learners and let's embark on an exciting journey of continuous growth and success in the world of technology.
 
 Unlock the Power of Technology - Explore JagTech Training Now!
+
+
+
+
+Requirements
+As of my last update in September 2021, I don't have specific information about "Jagtech" as it doesn't seem to be a widely known term or organization. However, I can provide you with general requirements that are typically common for web training programs. If "Jagtech" is a specific program or organization, it's best to refer to their official website or contact them directly to get the most up-to-date and accurate information.
+
+Prerequisites: Check if there are any prerequisites or recommended skills to join the web training program. Basic knowledge of programming languages like HTML, CSS, and JavaScript might be helpful for a web development training.
+
+Hardware and Software: Verify the minimum hardware and software requirements needed for the training. You may need a computer with internet access and specific software or tools for web development.
+
+Training Curriculum: Review the training curriculum to ensure it covers the topics you want to learn. Common topics in web development training include front-end technologies (HTML, CSS, JavaScript, etc.), back-end technologies (such as Node.js, Python, Ruby on Rails, etc.), databases, frameworks, and version control systems.
+
+Duration and Schedule: Check the duration of the training program and the schedule of classes. Determine if it fits your availability and timeline.
+
+Instructor Qualifications: Look for information about the instructors' qualifications and experience in the field. Qualified and experienced instructors can significantly enhance the quality of the training.
+
+Training Format: Identify whether the training is conducted in-person, online, or through a hybrid model. Choose the format that suits your preferences and circumstances.
+
+
+
+
+BENEFIT
+As of my last update in September 2021, there is no specific information available about "Jagtech" web training. Therefore, I cannot provide the exact benefits of learning from their program. However, I can outline the general benefits that one might expect from a quality web training program, regardless of the provider. If "Jagtech" is a reputable organization with a strong web training program, these benefits might apply:
+
+Comprehensive Curriculum: A well-designed web training program should offer a comprehensive curriculum that covers essential front-end and back-end web development technologies and techniques. This will equip learners with the knowledge and skills needed to build and maintain modern web applications.
+
+Experienced Instructors: Learning from experienced instructors who have real-world experience in web development can be invaluable. They can provide insights, practical tips, and industry best practices to help students succeed.
+
+Hands-on Projects: Practical experience is crucial for web development. A good training program should include hands-on projects and assignments that allow students to apply their knowledge in real-world scenarios.
+
+Updated Industry Standards: The web development field is continually evolving. A reputable training program will strive to stay updated with the latest industry standards, trends, and technologies, ensuring that students receive relevant and current knowledge.
+
+Networking Opportunities: Training programs can also offer networking opportunities, allowing students to connect with like-minded individuals, industry professionals, and potential employers.
+
+Portfolio Building: A strong portfolio is vital for web developers. A good training program may assist students in creating a portfolio that showcases their projects and skills, increasing their chances of getting hired.
+
+Job Placement Assistance: Some training programs may offer job placement assistance, helping students find suitable job opportunities after completing the course.
+
+Flexibility: Online web training programs often provide flexibility in terms of learning schedules, allowing students to balance their studies with other commitments.
+
+Cost-Effectiveness: Compared to formal education options like college or university degrees, web training programs can be more cost-effective, providing valuable skills at a fraction of the cost.
+
+Career Advancement: Web development skills are in demand across various industries. Learning from a reputable training program can open up career opportunities and possibilities for advancement.
+
+Remember that the actual benefits would depend on the quality and reputation of the specific "Jagtech" web training program. Always research thoroughly, read reviews, and compare different training options to find the one that aligns best with your learning goals and aspirations.
+
+Cost and Payment Options: Consider the cost of the training program and check if there are any payment plans or financial aid options available.
+
+Certification: If certification is essential for you, ensure that the training program provides recognized certificates upon completion.
+
+Reviews and Feedback: Seek reviews and feedback from previous students to gauge the effectiveness and reputation of the training program.
+
+Career Support: Inquire about any career support services or job placement assistance offered after completing the training.
+
+Remember to do thorough research on the specific "Jagtech" training program you are interested in to ensure it meets your expectations and goals. If you can't find enough information online, don't hesitate to reach out to the organization directly for more details.
+
+
+
+requirements 2
+As of my last update in September 2021, there is no specific information available about "Jagtech" web training. Therefore, I cannot provide the exact benefits of learning from their program. However, I can outline the general benefits that one might expect from a quality web training program, regardless of the provider. If "Jagtech" is a reputable organization with a strong web training program, these benefits might apply:
+
+Comprehensive Curriculum: A well-designed web training program should offer a comprehensive curriculum that covers essential front-end and back-end web development technologies and techniques. This will equip learners with the knowledge and skills needed to build and maintain modern web applications.
+
+Experienced Instructors: Learning from experienced instructors who have real-world experience in web development can be invaluable. They can provide insights, practical tips, and industry best practices to help students succeed.
+
+Hands-on Projects: Practical experience is crucial for web development. A good training program should include hands-on projects and assignments that allow students to apply their knowledge in real-world scenarios.
+
+Updated Industry Standards: The web development field is continually evolving. A reputable training program will strive to stay updated with the latest industry standards, trends, and technologies, ensuring that students receive relevant and current knowledge.
+
+Networking Opportunities: Training programs can also offer networking opportunities, allowing students to connect with like-minded individuals, industry professionals, and potential employers.
+
+Portfolio Building: A strong portfolio is vital for web developers. A good training program may assist students in creating a portfolio that showcases their projects and skills, increasing their chances of getting hired.
+
+Job Placement Assistance: Some training programs may offer job placement assistance, helping students find suitable job opportunities after completing the course.
+
+Flexibility: Online web training programs often provide flexibility in terms of learning schedules, allowing students to balance their studies with other commitments.
+
+Cost-Effectiveness: Compared to formal education options like college or university degrees, web training programs can be more cost-effective, providing valuable skills at a fraction of the cost.
+
+Career Advancement: Web development skills are in demand across various industries. Learning from a reputable training program can open up career opportunities and possibilities for advancement.
+
+Remember that the actual benefits would depend on the quality and reputation of the specific "Jagtech" web training program. Always research thoroughly, read reviews, and compare different training options to find the one that aligns best with your learning goals and aspirations.
+
+{
+  "id": 1,
+  "title": "iPhone Galaxy +1", // only title was updated
+  "description": "An apple mobile which is nothing like apple",
+  "price": 549,
+  "discountPercentage": 12.96,
+  "rating": 4.69,
+  "stock": 94,
+  "brand": "Apple",
+  "category": "smartphones",
+  "thumbnail": "...",
+  "images": ["...", "...", "..."]
+}
+
+
+
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "...",
+      "images": ["...", "...", "..."]
+    },
+    {...},
+    {...},
+    {...}
+    // 30 items
+  ],
+
+  "total": 100,
+  "skip": 0,
+  "limit": 30
+}
+
+
+
+<input type="text" placeholder="Name" name="name" required>
+                    <input type="text" placeholder="Phone Number" name="phone number" required>
+                    <input class="inp" type="text" placeholder="Course Applying for" required>
+                    <a href="https://api.whatsapp.com/send?phone=2347040155737" target="_blank">Book A Slot</a>
+
+
+
+
+//////////////
+As of my last update in September 2021, "Jagtech" remains an unspecified term or organization, so I don't have specific information about their web training program. However, I can outline the general benefits that one might expect from a quality web training program. If "Jagtech" is a reputable organization with a strong web training program, these benefits might apply:
+
+Comprehensive Curriculum: A good web training program should offer a comprehensive curriculum covering essential front-end and back-end web development technologies and concepts. This can provide learners with a solid foundation in web development.
+
+Experienced Instructors: Learning from experienced instructors who have real-world experience in web development can be highly valuable. They can provide insights, practical tips, and industry best practices to help students succeed.
+
+Hands-on Projects: Practical experience is crucial for web development. A quality training program will likely include hands-on projects and assignments that allow students to apply their knowledge in real-world scenarios.
+
+Updated Industry Standards: Web technologies evolve rapidly. A reputable training program will strive to stay updated with the latest industry standards, trends, and best practices, ensuring that students learn relevant and current information.
+
+Networking Opportunities: Training programs can offer networking opportunities, allowing students to connect with like-minded individuals, industry professionals, and potential employers, which can be beneficial for future career prospects.
+
+Portfolio Building: A strong portfolio is essential for web developers. A good training program may assist students in creating a portfolio that showcases their projects and skills, increasing their chances of getting hired.
+
+Career Support: Some training programs may offer career support services, such as resume reviews, interview preparation, and job placement assistance, helping students transition into the job market more smoothly.
+
+Flexibility: Online web training programs often provide flexibility in terms of learning schedules, allowing students to balance their studies with other commitments.
+
+Cost-Effective: Compared to formal education options like college or university degrees, web training programs can be more cost-effective, providing valuable skills at a fraction of the cost.
+
+Career Advancement: Web development skills are in demand across various industries. Learning from a reputable training program can open up career opportunities and possibilities for advancement.
+
+Remember that the actual benefits would depend on the quality and reputation of the specific "Jagtech" web training program. Always research thoroughly, read reviews, and compare different training options to find the one that aligns best with your learning goals and aspirations. If possible, try to get in touch with current or past students of the program to hear about their experiences firsthand
