@@ -148,7 +148,7 @@ body {
 .container-2 {
     width: 375px;
     margin: auto;
-    color: hsl(214, 17%, 51%);;
+    color: hsl(214, 17%, 51%);
 }
 
 .full-section {
@@ -365,12 +365,13 @@ body {
 
 .criteria p {
     text-align: left;
-    padding: 0.5em 2em 0;
+    /* padding: 0.5em 2em 0; */
 }
 
 .checklist {
     display: flex;
     align-items: center;
+    gap: 1em;
     padding: 0.5em 0;
 }
 
@@ -423,6 +424,15 @@ input {
     background-color: var(--light-gray);
 }
 
+select {
+    width: 80%;
+    padding: 1em;
+    border-radius: 10px;
+    border: 2px solid #033d3a;
+    background-color: var(--light-gray);
+    margin-bottom: 3em;
+}
+
 .inp {
     margin-bottom: 3em;
 }
@@ -453,7 +463,7 @@ input {
 }
 
 .abt {
-    padding: 1em 0 0;
+    /* padding: 1em 0 0; */
     text-align: justify;
     line-height: 1.6;
 }
