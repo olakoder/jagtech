@@ -21,11 +21,9 @@ body {
 /* TRAINING */
 
 .container {
-    /* background-color: var(--light-gray); */
     display: flex;
     flex-direction: column;
     gap: 1.2em;
-    /* padding: 2em 0; */
 }
 
 .top-training {
@@ -58,9 +56,6 @@ body {
     border-radius: 5px;
 }
 
-.learn {
-    /* display: flex; */
-}
 .learn p {
     font-size: 2em;
     color: white;
@@ -98,18 +93,23 @@ body {
 
 .introduction p {
     padding: 1em;
+    cursor: pointer;
+}
+
+.introduction p:hover {
+    
+    background-color: rgba(0, 0, 0, 0.409);
+    color: white;
+
 }
 
 .intro-attributes {
     display: none;
     font-weight: bold;
-    /* width: 100%; */
-    /* position: absolute; */
     background-color: var(--light-color);
 }
 
 .intro-attributes a:hover {
-    /* display: none; */
     background-color: rgba(128, 128, 128, 0.171);
 }
 
@@ -189,7 +189,7 @@ body {
 }
 
 .hero-section a:hover {
-    background-color: var(--light-color);
+    background-color: #033d3a85;
     transition: 0.7s;
 }
 
@@ -213,8 +213,6 @@ body {
     font-size: 1.5em;
     width: 1em;
 }
-
-
 
 .beginners {
     padding: 2em 0;
@@ -250,6 +248,10 @@ body {
     padding: 2em 0;
     background-color: #033d3a;
     color: white;
+}
+
+.training-program {
+    padding: 2em 0;
 }
 
 .weekdays-weekend {
@@ -345,7 +347,7 @@ body {
 
 .criteria {
     background-color: var(--light-gray);
-    padding: 2em 0;
+    padding: 2em 2em;
 }
 
 .criteria h1 {
@@ -359,6 +361,21 @@ body {
 
 .criteria h2, .require h2, .benefit h2, #booking h2, .about h2 {
     color: black;
+}
+
+.criteria p {
+    text-align: left;
+    padding: 0.5em 2em 0;
+}
+
+.checklist {
+    display: flex;
+    align-items: center;
+    padding: 0.5em 0;
+}
+
+.bullet {
+    width: 1.5em;
 }
 
 .require {
@@ -376,7 +393,6 @@ body {
 .require-heading {
     font-weight: bold;
     display: block;
-    /* color: red; */
 }
 
 .benefit {
@@ -423,7 +439,7 @@ input {
 }
 
 .slot a:hover {
-    background-color: var(--light-color);
+    background-color: #033d3a85;
     transition: 0.7s;
 }
 
