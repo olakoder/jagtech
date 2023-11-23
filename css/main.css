@@ -97,10 +97,8 @@ body {
 }
 
 .introduction p:hover {
-    
     background-color: rgba(0, 0, 0, 0.409);
     color: white;
-
 }
 
 .intro-attributes {
@@ -163,6 +161,10 @@ body {
     padding: 0.5em 1em;
     background-color: rgba(211, 211, 211, 0.192);
     color: black;
+}
+
+.logo {
+    width: 2.5em;
 }
 
 .hero-section {
@@ -264,7 +266,7 @@ body {
 .weeks {
     display: flex;
     flex-direction: column;
-    gap: 0.5em;
+    gap: 1em;
     padding: 0.9em;
     border-radius: 10px;
     color: black;
@@ -283,12 +285,16 @@ body {
     color: white;
 }
 
+.session {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2em;
+}
+
 .duration {
     padding: 4em 0;
     display: flex;
-    flex-direction: column;
-
-    
+    flex-direction: column;  
 }
 
 .training {
@@ -410,28 +416,42 @@ body {
 .slot {
     background-color: var(--dark-gray);
     padding: 2em 0 4em;
+    display: flex;
+    flex-direction: column;
+    /* gap: 1em; */
+}
+
+.slot p {
+    width: 90%;
+    margin: auto;
+    padding: 1em;
+}
+
+.slot a {
+    
+    /* padding: 1em; */
 }
 
 
 
 input {
-    display: block;
+    /* display: block;
     width: 80%;
     margin: 2em auto;
     padding: 1em;
     border-radius: 10px;
     border: 2px solid #033d3a;
-    background-color: var(--light-gray);
+    background-color: var(--light-gray); */
 }
 
-select {
+/* select {
     width: 80%;
     padding: 1em;
     border-radius: 10px;
     border: 2px solid #033d3a;
     background-color: var(--light-gray);
     margin-bottom: 3em;
-}
+} */
 
 .inp {
     margin-bottom: 3em;
@@ -439,18 +459,19 @@ select {
 
 .slot a {
     text-decoration: none;
-    background-color: #033d3a;
-    padding: 0.8em 6em;
+    background: linear-gradient(to right, var(--light-color), #033d3a);;
     color: white;
     font-size: 1.2em;
     font-weight: bold;
     border-radius: 10px;
     cursor: pointer;
+    width: 80%;
+    margin: auto;
 }
 
 .slot a:hover {
-    background-color: #033d3a85;
-    transition: 0.7s;
+    background: linear-gradient(to right, #033d3a, var(--light-color));
+    /* transition: 0.7s; */
 }
 
 .about {
