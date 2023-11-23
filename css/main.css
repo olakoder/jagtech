@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap');
+
+
 * {
     margin: 0;
     padding: 0;
@@ -13,7 +16,8 @@
 }
 
 body {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Montserrat', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* font: ; */
 }
 
 
@@ -177,7 +181,7 @@ body {
 }
 
 .heading-training {
-    font-size: 2em;
+    font-size: 3em;
 }
 
 .hero-section a {
@@ -421,18 +425,18 @@ body {
     /* gap: 1em; */
 }
 
+.slot h2 {
+    font-size: 2em;
+    font-weight: 400;
+    width: 90%;
+    margin: auto;
+}
+
 .slot p {
     width: 90%;
     margin: auto;
-    padding: 1em;
+    padding: 0.4em;
 }
-
-.slot a {
-    
-    /* padding: 1em; */
-}
-
-
 
 input {
     /* display: block;
@@ -466,7 +470,7 @@ input {
     border-radius: 10px;
     cursor: pointer;
     width: 80%;
-    margin: auto;
+    margin: 1em auto 0;
     padding: 0.7em;
 }
 
@@ -548,10 +552,6 @@ input {
     .container {
         width: 480px;
         margin: auto;
-    }
-
-    .slot a {
-    /* padding: 0.8em 8em; */
     }
 
 }
