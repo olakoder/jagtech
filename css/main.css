@@ -467,6 +467,7 @@ input {
     cursor: pointer;
     width: 80%;
     margin: auto;
+    padding: 0.7em;
 }
 
 .slot a:hover {
@@ -550,7 +551,7 @@ input {
     }
 
     .slot a {
-    padding: 0.8em 8em;
+    /* padding: 0.8em 8em; */
     }
 
 }
