@@ -1,3 +1,18 @@
+let menu = document.querySelector('.hamburger')
+// menu.addEventListener('click', show)
+
+// function show() {
+//     console.log('why')
+// }
+
+menu.addEventListener('click', () => {
+    // console.log('check in')
+    document.querySelector('.navigation').classList.toggle('active')
+})
+
+
+
+
 let intro = document.querySelector ('#intro')
 
 intro.addEventListener ('click', introduction);
@@ -53,5 +68,23 @@ formMe.addEventListener ('click', formAttributes);
 function formAttributes() {
     document.querySelector('#form-attributes').classList.toggle('active')
 }
+
+
+
+
+// menu.addEventListener('click', () => {
+//     console.log('Menu clicked!');
+// })
+
+// menu.addEventListener('click', () => {
+//     // Code to be executed when the menu is clicked
+//     console.log('Menu clicked');
+//     console.log('yusuf')
+//     // Add your code here
+// })
+
+
+
+
 
 
